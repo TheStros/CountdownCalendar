@@ -1,2 +1,0 @@
-# CountdownCalendar
-Created with CodeSandbox
